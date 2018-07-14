@@ -1,6 +1,6 @@
 # Hackathon Project (Inteligent Soluation)
 --------------------------------------
-## Deveopers:
+## Developers:
 * Ahmed Hussien 
 * Abubukr Almuslami
 * Mohammed Ali 
